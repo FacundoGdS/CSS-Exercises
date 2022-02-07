@@ -2,5 +2,10 @@ body {
 	background: #bdbdbd;
 }
 .rounded {
+	display: inline-block;
+	object-position: relative;
+	width: 280px;
+	height: 280px;
+	overflow: hidden;
 	border-radius: 100%;
 }

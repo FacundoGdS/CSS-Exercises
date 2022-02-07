@@ -1,1 +1,36 @@
-/* add your styles here */
+.div1 {
+	background-image: url(https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+}
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+	margin-left: 125px;
+}
+
+.div2 {
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 10px;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+body {
+	padding-left: 20px;
+}
+
+#paragraph1 {
+	background-color: rgba(255, 255, 255, 0.2);
+	padding: 5px;
+}
+
+a:hover {
+	color: green;
+}
+
+a {
+	text-decoration: none;
+}
